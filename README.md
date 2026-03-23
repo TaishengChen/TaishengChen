@@ -58,8 +58,6 @@ A native iOS fitness tracking app built with Swift. Work in progress.
 
 ## 📊 GitHub Stats
 
-![Taisheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaishengChen&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaishengChen&layout=compact&theme=dark&hide_border=true)
 
 ---
